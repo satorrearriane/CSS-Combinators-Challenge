@@ -1,0 +1,37 @@
+/* Style for Header Section */
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+/* Style for Navigation Menu */
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  color: #fff;
+}
+
+/* Style for Sidebar */
+aside {
+  background-color: #f4f4f4;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style for Main Content Area */
+main {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+}
+
+/* Style for Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
